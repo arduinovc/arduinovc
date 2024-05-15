@@ -8,8 +8,8 @@
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
 #Hackintosh projects
-- 💻 Currently working to upgrade Monterey to Sonoma on a Toshiba Tecra Z50-A (Haswell)
-- 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)
+- 💻 Currently working to run MacOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
+- 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
 
 #Arduino projects
 - 🏎️ My first Arduino project to create my own speedmeter for my car. Nothing hard, just fun UNO work
