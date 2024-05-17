@@ -10,6 +10,7 @@
 #Hackintosh projects
 - 💻 Currently working to run MacOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
 - 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
+- 🖥️ Standby project: Fujitsu Esprimo P558 (Coffee Lake) - iGPU issue.  
 
 #Arduino projects
 - 🏎️ My first Arduino project to create my own speedmeter for my car. Nothing hard, just fun UNO work
