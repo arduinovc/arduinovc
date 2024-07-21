@@ -18,7 +18,7 @@
 - 😴 Build sleep/interrupt library to manage low power on uController ATmega328p
 
 #Learning C/C++
-- 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) for graphics on MacOS & Windows.
+- 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NApp_GUI for graphics on MacOS & Windows.
 
 <!---
 arduinovc/arduinovc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
