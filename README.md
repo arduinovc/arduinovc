@@ -7,6 +7,11 @@
 - 📫 How to reach me ? Follow me on https://blog.vincentcharles.ovh/
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
+#Game and animation movie development
+- 🎮 Developing Unity 2D and 3D games for private entertainment
+- ⌨️ Developing C based terminal games
+- 🎞️ Testing Unity animation movie creation
+
 #Hackintosh projects
 - 💻 Currently working to run MacOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
 - 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
