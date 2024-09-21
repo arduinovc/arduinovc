@@ -8,12 +8,12 @@
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
 #Game and animation movie development
-- 🎮 Developing Unity 2D and 3D games for private entertainment
+- 🎮 Developing Unity 2D games for private entertainment
 - ⌨️ Developing C based terminal games
-- 🎞️ Testing Unity animation movie creation
+- 🎞️ Testing Unity animation movie
 
 #Hackintosh projects
-- 💻 Currently working to run MacOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
+- 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
 - 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
 - 🖥️ Standby project: Fujitsu Esprimo P558 (Coffee Lake) - iGPU issue.  
 
@@ -24,6 +24,9 @@
 
 #Learning C/C++
 - 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NAppGUI for graphics on macOS & Windows.
+- 👨‍💻 Learning game development with Unity engine.
+
+Lot of things inside my head. Lot of project. Keep pushing. 
 
 <!---
 arduinovc/arduinovc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
