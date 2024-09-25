@@ -1,7 +1,7 @@
 #Welcome
 
 - 👋 Hi, I’m @arduinovc
-- 👀 I’m interested in gaming, formula one, programming (arduino, C, C++)
+- 👀 I’m interested in gaming, formula one, programming (arduino, C, C++, C#, Unity)
 - 🌱 I’m currently learning object-oriented programming
 - 💞️ I’m looking to collaborate on arduino and hackintosh projects
 - 📫 How to reach me ? Follow me on https://blog.vincentcharles.ovh/
@@ -10,6 +10,7 @@
 #Game and animation movie development
 - 🎮 Developing Unity 2D games for private entertainment
 - ⌨️ Developing C based terminal games
+- ⌨️ Developing internal tools for my company
 - 🎞️ Testing Unity animation movie
 
 #Hackintosh projects
