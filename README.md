@@ -8,8 +8,8 @@
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
 #Game and animation movie development
-- 🎮 Developing Unity 2D games for private entertainment
-- ⌨️ Developing C based terminal games
+- 🎮 Developing Unity 2D and 3D games for private entertainment
+- ⌨️ Developing C and C++ based terminal games
 - ⌨️ Developing internal tools for my company
 - 🎞️ Testing Unity animation movie
 
