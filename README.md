@@ -10,8 +10,7 @@
 #Game and animation movie development
 - 🎮 Developing Unity 2D and 3D games for private entertainment
 - ⌨️ Developing C and C++ based terminal games
-- ⌨️ Developing internal tools for my company
-- 🎞️ Testing Unity animation movie
+- ⌨️ Developing C# internal tools for my company
 
 #Hackintosh projects
 - 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and a Dynabook C50 (Ice Lake)  
