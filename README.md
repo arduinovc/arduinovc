@@ -7,8 +7,7 @@
 - 📫 How to reach me ? Follow me on https://blog.vincentcharles.ovh/
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
-#Game and animation movie development
-- 🎮 Developing Unity 2D and 3D games for private entertainment
+#Game and software development
 - ⌨️ Developing C and C++ based terminal games
 - ⌨️ Developing C# internal tools for my company
 
@@ -25,8 +24,9 @@
 #Learning C/C++
 - 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NAppGUI for graphics on macOS & Windows.
 - 👨‍💻 Learning game development with Unity engine.
+- 👨‍💻 Learning C# with WPF and MAUI for developping apps.  
 
-Lot of things inside my head. Lot of project. Keep pushing. 
+Lot of things inside my head. Lot of projects. Keep pushing. 
 
 <!---
 arduinovc/arduinovc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
