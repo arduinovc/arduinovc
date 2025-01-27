@@ -10,6 +10,7 @@
 #Game and software development
 - ⌨️ Developing C and C++ based terminal games
 - ⌨️ Developing C# internal tools for my company
+- ⌨️ Developing Swift applications for iOS/macOS
 
 #Hackintosh projects
 - 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and ASUS UX303LA (Haswell)  
@@ -23,8 +24,8 @@
 
 #Learning C/C++
 - 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NAppGUI for graphics on macOS & Windows.
-- 👨‍💻 Learning game development with Unity engine.
-- 👨‍💻 Learning C# with WPF and MAUI for developping apps.  
+- 👨‍💻 Learning C# with WPF and MAUI for developping apps.
+- 👨‍💻 Learning Swift (SwiftUI and AppKit) for developping iOS/macOS apps.    
 
 Lot of things inside my head. Lot of projects. Keep pushing. 
 
