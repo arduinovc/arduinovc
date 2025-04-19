@@ -11,6 +11,7 @@
 - ⌨️ Developing C and C++ based terminal games
 - ⌨️ Developing C# internal tools for my company
 - ⌨️ Developing Swift applications for iOS/macOS
+- ⌨️ Learning Javascript and Node.JS for API Rest
 
 #Hackintosh projects
 - 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and ASUS UX303LA (Haswell)  
