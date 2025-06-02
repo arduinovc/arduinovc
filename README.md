@@ -12,6 +12,7 @@
 - ⌨️ Developing C# internal tools for my company
 - ⌨️ Developing Swift applications for iOS/macOS
 - ⌨️ Learning Javascript and Node.JS for API Rest
+- ⌨️ Testing Unity development for entertainment purposes only
 
 #Hackintosh projects
 - 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and ASUS UX303LA (Haswell)  
