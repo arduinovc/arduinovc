@@ -24,7 +24,7 @@
 - 💾 Build storage library to manage SD card on yController ATmega328p
 - 😴 Build sleep/interrupt library to manage low power on uController ATmega328p
 
-#Learning C/C++
+#Learning programming languages C/C++/C#/Swift/JavaScript
 - 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NAppGUI for graphics on macOS & Windows.
 - 👨‍💻 Learning C# with WPF and MAUI for developping apps.
 - 👨‍💻 Learning Swift (SwiftUI and AppKit) for developping iOS/macOS apps.    
