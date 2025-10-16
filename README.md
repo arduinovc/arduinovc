@@ -13,10 +13,9 @@
 - ⌨️ Learning Javascript and Node.JS for API Rest (macOS apps)
 - ⌨️ Learning and developing operating systems
 
-#Hackintosh projects
-- 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and ASUS UX303LA (Haswell)  
-- 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
-- 🖥️ Standby project: Fujitsu Esprimo P558 (Coffee Lake - iGPU issue) and a Dynabook C50 (Ice Lake - Touchpad I2C issue) 
+#Main projects 
+- 💻 vOS : a complete operating system build from scratch for learning purpose
+- 🖥️ MFPCare : an iOS & macOS software to manage MFP (printers/copiers) for my company
 
 #Learning programming languages C/C++/C#/Swift/JavaScript)
 - 👨‍💻 Learning C, C++ and x86_64 assembler to develop vOS.
