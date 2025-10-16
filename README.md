@@ -1,32 +1,26 @@
 #Welcome
 
 - 👋 Hi, I’m @arduinovc
-- 👀 I’m interested in gaming, formula one, programming (arduino, C, C++, C#, Unity)
-- 🌱 I’m currently learning object-oriented programming
-- 💞️ I’m looking to collaborate on arduino and hackintosh projects
+- 👀 I’m interested in gaming, formula one, programming (ASM, C, C++, C#, Swift)
+- 🌱 I’m currently learning operating system programming  
+- 💞️ I’m looking to collaborate on hackintosh projects
 - 📫 How to reach me ? Follow me on https://blog.vincentcharles.ovh/
 - ✍️ You can send me an email at contact(at)vincentcharles(dot)ovh
 
-#Game and software development
-- ⌨️ Developing C and C++ based terminal games
+#Current Development
 - ⌨️ Developing C# internal tools for my company
-- ⌨️ Developing Swift applications for iOS/macOS
-- ⌨️ Learning Javascript and Node.JS for API Rest
-- ⌨️ Learning Godot and LibreSprite for entertainment purposes  
+- ⌨️ Developing Swift applications for iOS and macOS
+- ⌨️ Learning Javascript and Node.JS for API Rest (macOS apps)
+- ⌨️ Learning and developing operating systems
 
 #Hackintosh projects
 - 💻 Currently working to run macOS on a Toshiba Tecra Z50-A (Haswell) and ASUS UX303LA (Haswell)  
 - 🖥️ Maintaining workable Sonoma on an old Fujitsu Esprimo P420 (Haswell)  
 - 🖥️ Standby project: Fujitsu Esprimo P558 (Coffee Lake - iGPU issue) and a Dynabook C50 (Ice Lake - Touchpad I2C issue) 
 
-#Arduino projects
-- 🏎️ My first Arduino project to create my own speedmeter for my car. Nothing hard, just fun UNO work
-- 💾 Build storage library to manage SD card on yController ATmega328p
-- 😴 Build sleep/interrupt library to manage low power on uController ATmega328p
-
-#Learning programming languages C/C++/C#/Swift/JavaScript
-- 👨‍💻 Learning C++ with OpenClassRooms with wxWidgets (wxWindows) or NAppGUI for graphics on macOS & Windows.
-- 👨‍💻 Learning C# with WPF and MAUI for developping apps.
+#Learning programming languages C/C++/C#/Swift/JavaScript)
+- 👨‍💻 Learning C, C++ and x86_64 assembler to develop vOS.
+- 👨‍💻 Learning C# with WPF for developping apps.
 - 👨‍💻 Learning Swift (SwiftUI and AppKit) for developping iOS/macOS apps.    
 
 Lot of things inside my head. Lot of projects. Keep pushing. 
