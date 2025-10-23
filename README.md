@@ -14,7 +14,8 @@
 - ⌨️ Learning and developing operating systems
 
 #Main projects 
-- 💻 vOS : a complete operating system build from scratch for learning purpose
+- 💻 cvsOS : a complete operating system build from scratch for learning purpose
+              (ASM Real-Mode 16 bits & mixed C/ASM Protected-Mode 32 bits)
 - 🖥️ MFPCare : an iOS & macOS software to manage MFP (printers/copiers) for my company
 
 #Learning programming languages C/C++/C#/Swift/JavaScript)
