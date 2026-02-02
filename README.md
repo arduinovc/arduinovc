@@ -11,11 +11,12 @@
 - ⌨️ Developing C# internal tools for my company
 - ⌨️ Developing Swift applications for iOS and macOS
 - ⌨️ Learning Javascript and Node.JS for API Rest (macOS apps)
-- ⌨️ Learning and developing operating systems
+- ⌨️ Learning and developing operating systems (ASM and C codes)  
 
 #Main projects 
 - 💻 cvsOS : a complete operating system build from scratch for learning purpose (ASM)
 - 🖥️ MFPCare : an iOS & macOS software to manage MFP (printers/copiers) for my company
+- 🖥️ Old Apple Systems : restoring old Apple Macintosh and running legacy systems from System Software 1 to Mac OS 9  
 
 #Learning programming languages C/C++/C#/Swift/JavaScript)
 - 👨‍💻 Learning C, C++ and x86_64 assembler to develop vOS.
